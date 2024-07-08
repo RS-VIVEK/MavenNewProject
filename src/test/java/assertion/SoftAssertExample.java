@@ -22,7 +22,7 @@ public class SoftAssertExample {
         System.out.println(userName);
         softAssert.assertTrue(userName, "Username textbox should be displayed...");
         softAssert.assertAll();
-        driver.close();
+        System.out.println("Username Textbox");
     }
 
     @Test
