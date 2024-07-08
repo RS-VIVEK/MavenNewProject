@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="4" passed="4" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2024-07-04T19:16:17 IST" name="All Test Suite" finished-at="2024-07-04T19:16:41 IST" duration-ms="24444">
+    <groups>
+    </groups>
+    <test started-at="2024-07-04T19:16:17 IST" name="C:/Users/hp/IdeaProjects/MavenNewProject" finished-at="2024-07-04T19:16:41 IST" duration-ms="24444">
+      <class name="assertion.SoftAssertExample">
+        <test-method signature="verifyHardAssertStatment()[pri:0, instance:assertion.SoftAssertExample@3bd40a57]" started-at="2024-07-04T19:16:17 IST" name="verifyHardAssertStatment" finished-at="2024-07-04T19:16:24 IST" duration-ms="6800" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifyHardAssertStatment -->
+        <test-method signature="verifyHardAssertStatment_1()[pri:0, instance:assertion.SoftAssertExample@3bd40a57]" started-at="2024-07-04T19:16:24 IST" name="verifyHardAssertStatment_1" finished-at="2024-07-04T19:16:28 IST" duration-ms="4666" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifyHardAssertStatment_1 -->
+        <test-method signature="verifyHardAssertStatment_2()[pri:0, instance:assertion.SoftAssertExample@3bd40a57]" started-at="2024-07-04T19:16:28 IST" name="verifyHardAssertStatment_2" finished-at="2024-07-04T19:16:32 IST" duration-ms="3645" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifyHardAssertStatment_2 -->
+        <test-method signature="verifyHardAssertStatment_3()[pri:0, instance:assertion.SoftAssertExample@3bd40a57]" started-at="2024-07-04T19:16:32 IST" name="verifyHardAssertStatment_3" finished-at="2024-07-04T19:16:41 IST" duration-ms="9224" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifyHardAssertStatment_3 -->
+      </class> <!-- assertion.SoftAssertExample -->
+    </test> <!-- C:/Users/hp/IdeaProjects/MavenNewProject -->
+  </suite> <!-- All Test Suite -->
+</testng-results>
